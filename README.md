@@ -1,4 +1,4 @@
-# 2022_experiment: Human-Robot Interaction(HRI) Study
+# 2022 experiment: Human-Robot Interaction(HRI) Study
 
 ## 1. Project Background
 
