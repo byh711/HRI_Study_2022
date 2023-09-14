@@ -1,6 +1,6 @@
 # 2022 experiment: Human-Robot Interaction(HRI) Study
 
-## 1. Project Background
+## 1. Background
 
 The primary objective of this project is to delve deeper into human social cognition through human-robot interaction (HRI) experiments. The focus is on understanding the distinct features of a social interaction that make humans recognize they are interacting with an intelligent agent versus a machine. This understanding can pave the way for creating more "life-like" interactive AI in the future.
 
@@ -12,7 +12,7 @@ The study involves human participants interacting with a virtual avatar system d
 
 The Social AI uses a Speech Dialogue system, linked to live game data, enabling it to react to in-game events through autonomously-generated speech using a text-to-speech (TTS) module in both English and Korean.
 
-## 3. Hypotheses in the Study
+## 3. Hypotheses
 
 ### H1: Planning vs No-Planning
 
