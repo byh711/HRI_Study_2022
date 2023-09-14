@@ -31,6 +31,7 @@ This hypothesis examines the impact of language switching in bilinguals on their
 ## 4. Conclusion
 
 This research aims to understand human interaction in a social environment and use this knowledge for the development of the Social AI. The ultimate goal is to identify components of social interaction that affect social fluidity.
+
 For more details on the study, its objectives, and other hypotheses not present in this repository, please refer to the detailed project description.
 
 ## 5. Acknowledgements
