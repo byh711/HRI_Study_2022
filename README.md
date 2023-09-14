@@ -14,14 +14,14 @@ The Social AI uses a Speech Dialogue system, linked to live game data, enabling 
 
 ## 3. Hypotheses in the Study
 
-- **H1: Planning vs No-Planning**
+### H1: Planning vs No-Planning
 
 This hypothesis tests the effect of the Social AI discussing future plans before executing them. The capability is based on machine learning models predicting future game states, which is then made available to the Speech Dialogue system.
 
 - [H1(Planned Speech) - English](./setting/H1(Planned%20Speech)/ENG)
 - [H1(Planned Speech) - Korean](./setting/H1(Planned%20Speech)/KOR)
 
-- **H5: Bilingual Language Switching Effects**
+### H5: Bilingual Language Switching Effects
 
 This hypothesis examines the impact of language switching in bilinguals on their social interaction with the Social AI agent. Participants will switch between Korean and English during the interaction.
 
