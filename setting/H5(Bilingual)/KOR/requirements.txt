@@ -1,0 +1,4 @@
+azure-cognitiveservices-speech == 1.17.0
+keyboard == 0.13.5
+xlrd == 2.0.1
+openpyxl == 3.0.7
